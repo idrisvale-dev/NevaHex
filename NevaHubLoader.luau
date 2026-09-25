@@ -1,4 +1,4 @@
-local SCRIPTS_BASE_URL = "https://raw.githubusercontent.com/idrisvale-dev/NH/refs/heads/master/Scripts/""
+local SCRIPTS_BASE_URL = "https://raw.githubusercontent.com/idrisvale-dev/NH/refs/heads/master/Scripts/"
 local PLACE_MAP = {
     [2788229376]          = "DaHood.luau",
     [142823291]           = "Mm2.luau",
